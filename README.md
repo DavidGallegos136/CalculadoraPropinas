@@ -12,7 +12,11 @@ Tip Time es una aplicación de Android desarrollada en Android Studio que permit
 Capturas de Pantalla de la aplicación
 
 <img width="1680" alt="Screenshot 2024-09-03 at 9 45 58 p m" src="https://github.com/user-attachments/assets/dedde665-f05d-4d88-a81c-69c86d4bae5c">
-![Screenshot_20240903_215203](https://github.com/user-attachments/assets/57e06802-543b-429e-b48e-a4cf1a2fa886)
+
+<img width="1680" alt="Screenshot 2024-09-04 at 9 45 58 p m" src="https://github.com/user-attachments/assets/af2279d2-ad45-435c-8e4c-323c5b8ad7b2">
+
+
+
 
 ## Cómo Usar
 
