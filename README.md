@@ -13,17 +13,14 @@ Capturas de Pantalla de la aplicación
 
 <img width="1680" alt="Screenshot 2024-09-03 at 9 45 58 p m" src="https://github.com/user-attachments/assets/dedde665-f05d-4d88-a81c-69c86d4bae5c">
 
-<img width="580" alt="Screenshot 2024-09-04 at 9 45 58 p m" src="https://github.com/user-attachments/assets/af2279d2-ad45-435c-8e4c-323c5b8ad7b2">
-
-
-
+<img width="424" alt="Screenshot 2024-09-03 at 9 57 28 p m" src="https://github.com/user-attachments/assets/c46345e1-e613-4a46-a048-f1c179840abe">
 
 ## Cómo Usar
 
-1. Introduce el total de la cuenta.
+1. Introduce el total del servicio.
 2. Selecciona el porcentaje de propina deseado (20%, 18%, o 15%).
 3. (Opcional) Activa el redondeo si deseas redondear el total.
-4. El total de la propina y el monto final de la cuenta aparecerán automáticamente.
+4. Por ultimo aparecera la cantidad correspondiente a la propina
 
 ## Instalación
 
