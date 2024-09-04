@@ -1,4 +1,4 @@
-Tip Time - Calculadora de Propinas
+## Tip Time - Calculadora de Propinas
 
 Tip Time es una aplicación de Android desarrollada en Android Studio que permite calcular propinas fácilmente. La aplicación ofrece tres opciones de propina estándar: 20%, 18% y 15%. Además, incluye un switch para redondear el total a un número entero para simplificar la obtención de la cantidad de propina.
 
@@ -24,5 +24,6 @@ Capturas de Pantalla de la aplicación
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local usando:
+1. Clona el repositorio en tu máquina usando la siguiente url:
+2. https://github.com/DavidGallegos136/CalculadoraPropinas.git
 
